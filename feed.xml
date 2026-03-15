@@ -878,5 +878,23 @@ Rozmawiamy o tym jak testować komedie, jak przygotować się do open-mica, jaki
       <guid isPermaLink="false">57</guid>
       <itunes:duration>00:18:18</itunes:duration>
     </item>
+    <item>
+      <title>Krzysztof Kasparek Życie w trasie Mieszko Minkiewicz Tomek Machnicki</title>
+      <itunes:author>ComedyLab</itunes:author>
+      <description>Krzysztof Kasparek Życie w trasie Mieszko Minkiewicz Tomek Machnicki</description>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=10p2nWxBaoMxziOt3MOm021ltPshIpt0l" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">58</guid>
+      <itunes:duration>01:00:06</itunes:duration>
+    </item>
+    <item>
+      <title>Krzysztof Kasparek Tomek Machnicki</title>
+      <itunes:author>LABORATORIUM KOMEDII</itunes:author>
+      <description>Krzysztof Kasparek Tomek Machnicki</description>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1wAWxcWTYWdnY3Rdr1rSpNFOGwj02V4p2" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">59</guid>
+      <itunes:duration>01:35:13</itunes:duration>
+    </item>
   </channel>
 </rss>
