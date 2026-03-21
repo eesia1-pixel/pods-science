@@ -925,5 +925,14 @@ Ignacy Daszyński, Jędrzej Moraczewski</description>
       <guid isPermaLink="false">62</guid>
       <itunes:duration>01:05:29</itunes:duration>
     </item>
+    <item>
+      <title>Czy Polska Naprawdę Może Wyjść z Unii Europejskiej</title>
+      <itunes:author>ORB</itunes:author>
+      <description>Czy Polexit jest prawdziwą rzeczą? Zapraszamy. </description>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1MN4SkPiM5i7jo5sjidhr5gdiJ5Uqdte3" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">63</guid>
+      <itunes:duration>00:12:21</itunes:duration>
+    </item>
   </channel>
 </rss>
