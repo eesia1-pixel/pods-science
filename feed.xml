@@ -976,5 +976,14 @@ Zapraszamy do oglądania! </description>
       <guid isPermaLink="false">67</guid>
       <itunes:duration>00:47:26</itunes:duration>
     </item>
+    <item>
+      <title>The Radical Tub</title>
+      <itunes:author>The Mit Press Reader</itunes:author>
+      <description>How bathing spaces, long treated as sterile utilities, can become architectures of intimacy, accessibility, and embodied liberation.</description>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=10LVJslNASzOTgtJf8HBNVxGHtk1cBOq6" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">68</guid>
+      <itunes:duration>00:24:13</itunes:duration>
+    </item>
   </channel>
 </rss>
