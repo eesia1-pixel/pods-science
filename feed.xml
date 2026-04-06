@@ -1028,5 +1028,14 @@ W podcaście: powitanie w polszczyźnie – kiedy i kto może mówić „witam�
       <guid isPermaLink="false">72</guid>
       <itunes:duration>00:14:14</itunes:duration>
     </item>
+    <item>
+      <title>Czego nas uczą ptasie strachy</title>
+      <itunes:author>Homo Science</itunes:author>
+      <description>Czego nas uczą ptasie strachy</description>
+      <pubDate>Sun, 07 Apr 2026 01:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1rXwBJKyuhVlkmH7TG1RYRuVqBf13w1NL" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">73</guid>
+      <itunes:duration>00:23:20</itunes:duration>
+    </item>
   </channel>
 </rss>
