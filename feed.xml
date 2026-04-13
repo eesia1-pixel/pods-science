@@ -1060,6 +1060,7 @@ W podcaście: powitanie w polszczyźnie – kiedy i kto może mówić „witam�
       <itunes:author>ZVZ Plus</itunes:author>
       <description>W dzisiejszym odcinku Kasia przenosi swoje personalne lęki na świat rzeczywisty i dokonuje najbardziej niedramatycznego coming outu w historii, a potem desperacko staramy się znaleźć coś interesującego w tej historii. </description>
       <pubDate>Sat, 11 Apr 2026 00:00:00 -0000</pubDate>
+
       <enclosure url="https://docs.google.com/uc?export=download&amp;id=1Lf2xTMqeKXcyVqPjk3Xgl6oGv_-f2eKy" type="audio/mp4" length="0"/>
       <guid isPermaLink="false">76</guid>
       <itunes:duration>00:22:54</itunes:duration>
@@ -1074,6 +1075,15 @@ Znajdujemy je, o dziwo, w powracającym (tym razem jako produkcja Marvel Studios
       <enclosure url="https://docs.google.com/uc?export=download&amp;id=1lFCMU9RtCcVOJMCSsZp5gS_xGh7qW0We" type="audio/mp4" length="0"/>
       <guid isPermaLink="false">77</guid>
       <itunes:duration>00:22:48</itunes:duration>
+    </item>
+    <item>
+      <title>Koniec Orbana i Blokada Morska Trumpa</title>
+      <itunes:author>ORB</itunes:author>
+      <description>Orban przegrał wybory na Węgrzech a Donald Trump znowu zmienia plany jeśli chodzi o Ormuz</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1S-vb-JbzqTkjwl4clDCZl995u8htMPiq" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">78</guid>
+      <itunes:duration>00:17:36</itunes:duration>
     </item>
   </channel>
 </rss>
