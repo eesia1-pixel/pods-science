@@ -1143,5 +1143,27 @@ Strona projektu: https://polski.uwb.edu.pl/.</description>
       <guid isPermaLink="false">81</guid>
       <itunes:duration>00:33:11</itunes:duration>
     </item>
+    <item>
+      <title>Człowiek 2.0 -  Co naprawdę mówi nam genom</title>
+      <itunes:author>Dwa kilo mózgu</itunes:author>
+      <description>To nie tylko tanie i szybkie sekwencjonowanie DNA 🧬. To pytanie o sens danych, które coraz łatwiej zdobyć, a coraz trudniej zrozumieć. Sam genom człowieka to ponad 3 miliardy „liter” – a wśród milionów różnic tylko część ma realne znaczenie dla zdrowia. Reszta? Wciąż pozostaje zagadką.
+Genomika nie skupia się na jednym genie, ale na całości informacji genetycznej i jej wpływie na funkcjonowanie organizmu. W erze medycyny precyzyjnej chodzi nie tylko o choroby rzadkie czy nowotwory, lecz także o dobór leków 💊, ocenę ryzyka zachorowania i skuteczną profilaktykę. Ten sam lek może działać różnie u różnych osób – bo każdy z nas metabolizuje go inaczej.
+Problem w tym, że prywatne badanie i plik z wynikami to za mało. Potrzebni są eksperci, infrastruktura i ogromne bazy danych 📊, które pozwalają odróżnić wariant naprawdę groźny od takiego, który jest tylko częstą różnicą w danej populacji. Dlatego tak ważne są publiczne projekty genomowe – budujące wiedzę nie o jednym pacjencie, lecz o nas wszystkich.
+🎙️ W podcaście Człowiek 2.0 Jan Stradowski rozmawia z prof. Luizą Handschuh 🧑‍🔬 – biolożką molekularną i dyrektorką Instytutu Chemii Bioorganicznej PAN – o tym, co naprawdę mówi nam genom, dlaczego samo „odczytanie DNA” nie wystarcza i co musi się zmienić, by genomika zaczęła realnie działać w medycynie.
+</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1XTMFcFdN_Fb6Ve2rc0UONczUxG3XISwx" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">82</guid>
+      <itunes:duration>00:38:00</itunes:duration>
+    </item>
+    <item>
+      <title>Morawiecki Walczy z PiS, Trump  z Papieżem a Dla Pieniędzy Zostaje Doradcą Prezydenta</title>
+      <itunes:author>Dwa kilo mózgu</itunes:author>
+      <description>Polityka się odkleiła całkowicie. Zapraszamy.</description>
+      <pubDate>Wed, 15 Apr 2026 01:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1igcXFJ2wHw3ZJy6tv02JBkPNhuRokSv9" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">83</guid>
+      <itunes:duration>00:13:27</itunes:duration>
+    </item>
   </channel>
 </rss>
