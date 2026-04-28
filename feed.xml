@@ -1226,5 +1226,25 @@ Dziś Kasia i Kuba będą rozmawiać na temat filmu "Drama" - w głównej roli Z
       <guid isPermaLink="false">88</guid>
       <itunes:duration>01:00:32</itunes:duration>
     </item>
+    <item>
+      <title>ZVZ Plus Czy Katy Perry pierdzi w kosmosie</title>
+      <itunes:author>Dwa kilo mózgu</itunes:author>
+      <description>W dzisiejszym odcinku omawiamy najnowsze gazy odkryte (być może) w kosmosie, a do tego przyglądamy się lotowi Katy Perry (i nie tylko) w okolice orbity okołoziemskiej.
+
+Jest też filozoficznie, jak zwykle, a do tego Kasia wprowadza naszą relację z Wami na zupełnie nowy poziom, spontanicznie wymyślając nową nazwę Klubu ZVZ.</description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1cjKjdoUrqwuZ7JltXjCtmNC5jiZAVfY0" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">89</guid>
+      <itunes:duration>00:28:19</itunes:duration>
+    </item>
+    <item>
+      <title>Zamach na Trumpa i Sypiące się NATO</title>
+      <itunes:author>Dwa kilo mózgu</itunes:author>
+      <description>Amerykańskie Inby dotyczące Polski i nie tylko. Zapraszamy. </description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1cjKjdoUrqwuZ7JltXjCtmNC5jiZAVfY0" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">90</guid>
+      <itunes:duration>00:13:57</itunes:duration>
+    </item>
   </channel>
 </rss>
