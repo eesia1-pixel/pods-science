@@ -1411,5 +1411,14 @@ Zapraszamy do słuchania!
       <guid isPermaLink="false">102</guid>
       <itunes:duration>00:40:39</itunes:duration>
     </item>
+    <item>
+      <title>Czy Polska Zakaże Kryptowalut</title>
+      <itunes:author>Dwa kilo mózgu</itunes:author>
+      <description>Inba o kryptowaluty w Polsce</description>
+      <pubDate>Wen, 13 May 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1Rd1UIzzYYvZ16SNRY8iA7GgrbhvInPcB" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">103</guid>
+      <itunes:duration>00:16:54</itunes:duration>
+    </item>
   </channel>
 </rss>
