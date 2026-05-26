@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Moje Archiwum YouTube</title>
     <link>https://eesia1-pixel.github.io/pods-science/</link>
@@ -1451,6 +1451,16 @@ Zapraszamy do słuchania!
       <enclosure url="https://docs.google.com/uc?export=download&amp;id=17Rphn0nxL5pYbvsekD32Li9Jozo1qpPr" type="audio/mp4" length="0"/>
       <guid isPermaLink="false">106</guid>
       <itunes:duration>00:16:09</itunes:duration>
+    </item>
+    <item>
+      <title>Why Being Forgetful is a Superpower</title>
+      <itunes:author>ORB</itunes:author>
+      <description>Forgetting a name or losing your keys feels like a small failure, but what if your forgetfulness is actually one of the most important things your brain does? In this video, I explore the surprising science of forgetting through the story of a woman who remembers everything, the psychologist studying why most of us don't, and the research showing that a healthy memory needs to lose details, not just keep them.</description>
+      <pubDate>Tue, 26 May 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1yDzK2-721dv5KQwBRoBYc1cPk4rtI3XE" type="audio/mp4" length="0"/>
+      <podcast:transcript url="https://docs.google.com/uc?export=download&amp;id=1t6ghtfxc3pL9IPR8ZNg61hh8qgQL0d9l" type="text/srt"/>
+      <guid isPermaLink="false">107</guid>
+      <itunes:duration>00:17:46</itunes:duration>
     </item>
   </channel>
 </rss>
