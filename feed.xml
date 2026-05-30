@@ -1527,5 +1527,14 @@ Rozmowę nagraliśmy 14 maja podczas spotkania z udziałem publiczności w sali 
       <guid isPermaLink="false">112</guid>
       <itunes:duration>01:46:22</itunes:duration>
     </item>
+    <item>
+      <title>Psy są z nami dłużej, niż myśleliśmy</title>
+      <itunes:author>ORB</itunes:author>
+      <description></description>
+      <pubDate>Sat, 30 May 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1mnxQ2EOjw4yqLIqJOWcBIXTaG_pUhPOO" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">113</guid>
+      <itunes:duration>00:13:06</itunes:duration>
+    </item>
   </channel>
 </rss>
