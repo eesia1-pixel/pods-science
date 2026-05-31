@@ -1536,5 +1536,19 @@ Rozmowę nagraliśmy 14 maja podczas spotkania z udziałem publiczności w sali 
       <guid isPermaLink="false">113</guid>
       <itunes:duration>00:13:06</itunes:duration>
     </item>
+    <item>
+      <title>Blaski i cienie współczesnej sztucznej inteligencji</title>
+      <itunes:author>ORB</itunes:author>
+      <description>Trzy lata temu firma OpenAI udostępniła użytkownikom przełomowy model ChatGPT-4. Od tego momentu sztuczna inteligencja stała się jednym z najważniejszych tematów debaty publicznej na całym świecie. Jak również przedmiotem ogromnej ekscytacji. Czy rzeczywiście technologia tzw. dużych modeli językowych - do których należy ChatGPT i konkurujące z nim Gemini, Claude czy Grok - radyklanie zmieni świat? Czy są one tylko kalkulatorami językowymi, czy może systemami obdarzonymi inteligencją? A jeśli tak, to czy jest ona podobna do ludzkiej? Ale nawet jeśli mamy do czynienia z algorytmami, które tylko udają ludzkie myślenie, to jak głęboko zmienią nasze życie społeczne - zarówno w pozytywnym, jak i negatywnym kierunki? 
+
+Zapraszamy na rozmowę red. Marcina Rotkiewicza (tygodnik "Polityka") z prof. Przemysławem Kazienko, informatykiem z Politechniki Wrocławskiej.
+
+Prof. Przemysław Kazienko prowadzi na Politechnice Wrocławskiej trzy grupy badawcze: ImpactAI - która bada wpływ AI na ludzi, w tym manipulacje wielkich modeli językowych; Emognition - która zajmuje się rozpoznawanie stanów afektywnych, dobrostan, technologiami urządzeń do noszenia i sygnały biologiczne, także w medycynie; HumaNLP - badającej ludzką perspektywę w przetwarzaniu tekstów, a także zajmującą się rozwojem technologii wielkich modeli językowych, m.in. polskiego PLLuM.
+</description>
+      <pubDate>Sun, 31 May 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1YCd_sAhlnu7RHXBa4CUFyNKSMAcdJl6W" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">114</guid>
+      <itunes:duration>01:28:12</itunes:duration>
+    </item>
   </channel>
 </rss>
