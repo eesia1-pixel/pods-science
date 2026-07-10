@@ -1730,5 +1730,25 @@ W najnowszym odcinku podcastu Człowiek 2.0 prof. Szymon Malinowski z Wydziału 
       <guid isPermaLink="false">129</guid>
       <itunes:duration>00:35:31</itunes:duration>
     </item>
+    <item>
+      <title>ZVZ Plus – Demony, k-pop i jak się nazywa to?</title>
+      <itunes:author>ORB</itunes:author>
+      <description>W dzisiejszym odcinku Kasia zapomina nie tylko nazwę naszego podcastu, ale również słowo „podcast” samo w sobie.
+
+Żeby odwrócić naszą uwagę od tego godnego Joe'go Bidena dramatu, zaczynamy dyskutować o „Kpop Demon Hunters”, „Róży Wersalu” i o tym, czy Luke mógł sobie zrobić krzywdę w „Gwiezdnych wojnach”.</description>
+      <pubDate>Fri, 10 Jul 2026 01:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1QacQjdEE7EW1f_wdeZthuLsBR6h2sb_I" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">130</guid>
+      <itunes:duration>00:25:54</itunes:duration>
+    </item>
+    <item>
+      <title>ZVZ Plus – Kolejka do randki na szczycie Giewontu</title>
+      <itunes:author>ORB</itunes:author>
+      <description>W dzisiejszym odcinku Kasia tradycyjnie opowiada o swojej dorocznej wizycie w górach, co jakimś cudem prowadzi nas do dyskusji o współczesnych randkach i Sztucznej Inteligencji.</description>
+      <pubDate>Fri, 10 Jul 2026 02:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1KZjof7xcWmPAAHGUo4HrO7LLOjZGWELn" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">131</guid>
+      <itunes:duration>00:24:00</itunes:duration>
+    </item>
   </channel>
 </rss>
