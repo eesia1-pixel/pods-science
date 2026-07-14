@@ -1760,5 +1760,14 @@ W najnowszym odcinku podcastu Człowiek 2.0 prof. Szymon Malinowski z Wydziału 
       <guid isPermaLink="false">132</guid>
       <itunes:duration>00:13:42</itunes:duration>
     </item>
+    <item>
+      <title>Krzysztof Kasparek Live Stream</title>
+      <itunes:author>ORB</itunes:author>
+      <description>Krzysztof Kasparek Live Stream</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1xACNKLIXcJa2UPtfK6BRv7bW_SPJl-zh" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">133</guid>
+      <itunes:duration>02:05:36</itunes:duration>
+    </item>
   </channel>
 </rss>
