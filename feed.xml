@@ -1769,5 +1769,23 @@ W najnowszym odcinku podcastu Człowiek 2.0 prof. Szymon Malinowski z Wydziału 
       <guid isPermaLink="false">133</guid>
       <itunes:duration>02:05:36</itunes:duration>
     </item>
+    <item>
+      <title>CZY NOWY PAWLIKOWSKI WZRUSZA</title>
+      <itunes:author>ORB</itunes:author>
+      <description>Jakub Wejkszner i Katarzyna Czajka-Kominiarczuk w rozmowie na temat filmu "Ojczyzna" w reżyserii Pawła Pawlikowskiego</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1W3OPSRu3vuMksYs3BroGEgXP80YRYsrz" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">134</guid>
+      <itunes:duration>00:25:14</itunes:duration>
+    </item>
+    <item>
+      <title>FEMINIZM OSZUKAŁ KOBIETY</title>
+      <itunes:author>ORB</itunes:author>
+      <description>Kuba i Kasia rozmawiają dziś na temat książki "Girl on Girl. Jak popkultura zwróciła kobiety przeciw sobie" autorstwa Sophie Gilbert</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1YXyisUBKUAnulYF36tRMkym5Z4D65T-m" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">135</guid>
+      <itunes:duration>00:51:43</itunes:duration>
+    </item>
   </channel>
 </rss>
