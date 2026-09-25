@@ -1877,9 +1877,9 @@ Dr Paweł M. Boguszewski jest neuronaukowcem, kierownikiem Pracowni Metod Behawi
       <itunes:duration>00:40:26</itunes:duration>
     </item>
     <item>
-      <title>Q & A - Pytania i Odpowiedzi</title>
+      <title>QA - Pytania i Odpowiedzi</title>
       <itunes:author>ORB</itunes:author>
-      <description>Zapraszam Was na sesję Q & A z odpowiedziami na sporą część Waszych pytań.</description>
+      <description>Zapraszam Was na sesję Q A z odpowiedziami na sporą część Waszych pytań.</description>
       <pubDate>Mon, 31 Aug 2026 00:00:00 -0000</pubDate>
       <enclosure url="https://docs.google.com/uc?export=download&amp;id=1hT8LUKbz25Vnew1gXDbXI-7zh0RhsGgL" type="audio/mp4" length="0"/>
       <guid isPermaLink="false">141</guid>
@@ -2054,6 +2054,15 @@ Prowadzenie: prof. dr hab. Aleksandra Przegalińska
       <enclosure url="https://docs.google.com/uc?export=download&amp;id=1dRJ6FFtIjnW_QN8B0xzC4fqdmijxKHF4" type="audio/mp4" length="0"/>
       <guid isPermaLink="false">151</guid>
       <itunes:duration>02:02:47</itunes:duration>
+    </item>
+    <item>
+      <title>The Psychology of 'Never Enough'</title>
+      <itunes:author>ORB</itunes:author>
+      <description>On today’s episode, we’re talking about… MONEY! Why does it feel like it’s never enough?! We get into research on the psychology of financial stress, how money changes people and why rich people are the worst. Also, does money buy happiness?</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 -0000</pubDate>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1mSPrTNqKM3k8eEj29Ux3cZyCCcS3jiRE" type="audio/mp4" length="0"/>
+      <guid isPermaLink="false">152</guid>
+      <itunes:duration>01:05:27</itunes:duration>
     </item>
   </channel>
 </rss>
